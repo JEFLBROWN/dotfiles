@@ -3,4 +3,4 @@
 - Affinity
 - Alacritty
 - Clip Studio
-- nVim
+- Neovim
